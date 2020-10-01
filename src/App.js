@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hello ahsfaq this is ci/cd project
+          hello ashfaq this is ci/cd project
         </a>
       </header>
     </div>
