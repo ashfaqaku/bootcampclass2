@@ -1,5 +1,12 @@
 ﻿This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps for CI/CD
+
+1) => yarn Build
+2) => surge ./build
+3) => surge token
+4) => Github add action
+5) => Add Sectret token 
 
 ## Link For Web
 
