@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Rust
+          hello ahsfaq this is ci/cd project
         </a>
       </header>
     </div>
